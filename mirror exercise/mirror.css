@@ -1,0 +1,13 @@
+#articleContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly
+}
+
+#article1 {
+  border: 2px solid blue
+}
+
+#article2 {
+  border: 2px solid red
+}
